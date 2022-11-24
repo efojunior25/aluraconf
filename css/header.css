@@ -1,5 +1,5 @@
 .header {
-    background-image:url("./img/destaque.jpeg") no-repeat;
+    background-image:url("../img/destaque.jpeg") no-repeat;
     background-size: cover;
     padding-top: 32px;
 }
